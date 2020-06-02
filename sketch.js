@@ -24,9 +24,9 @@ function setup() {
     roof = new Roof(389,180,420,25);
     rope1 = new Rope(bobObject1.body,roof.body,-bobDiameter*2+8,0);
     rope2 = new Rope(bobObject2.body,roof.body,-bobDiameter*2+74,0);
-    rope3 = new Rope(bobObject3.body,roof.body,-bobDiameter*2+136,0);
-    rope4 = new Rope(bobObject4.body,roof.body,-bobDiameter*2+199,0);
-    rope5 = new Rope(bobObject5.body,roof.body,-bobDiameter*2+262,0);
+    rope3 = new Rope(bobObject3.body,roof.body,-bobDiameter*2+142,0);
+    rope4 = new Rope(bobObject4.body,roof.body,-bobDiameter*2+220,0);
+    rope5 = new Rope(bobObject5.body,roof.body,-bobDiameter*2+285,0);
 }
 
 
